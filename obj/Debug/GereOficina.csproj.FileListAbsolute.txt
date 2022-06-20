@@ -1,0 +1,16 @@
+C:\Users\tomas\source\repos\GereOficina\bin\Debug\GereOficina.exe.config
+C:\Users\tomas\source\repos\GereOficina\bin\Debug\GereOficina.exe
+C:\Users\tomas\source\repos\GereOficina\bin\Debug\GereOficina.pdb
+C:\Users\tomas\source\repos\GereOficina\bin\Debug\EntityFramework.dll
+C:\Users\tomas\source\repos\GereOficina\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomas\source\repos\GereOficina\bin\Debug\EntityFramework.xml
+C:\Users\tomas\source\repos\GereOficina\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tomas\source\repos\GereOficina\obj\Debug\GereOficina.csproj.AssemblyReference.cache
+C:\Users\tomas\source\repos\GereOficina\obj\Debug\GereOficina.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas\source\repos\GereOficina\obj\Debug\GereOficina.Properties.Resources.resources
+C:\Users\tomas\source\repos\GereOficina\obj\Debug\GereOficina.csproj.GenerateResource.cache
+C:\Users\tomas\source\repos\GereOficina\obj\Debug\GereOficina.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\GereOficina\obj\Debug\GereOficina.csproj.CopyComplete
+C:\Users\tomas\source\repos\GereOficina\obj\Debug\GereOficina.exe
+C:\Users\tomas\source\repos\GereOficina\obj\Debug\GereOficina.pdb
+C:\Users\tomas\source\repos\GereOficina\obj\Debug\GereOficina.frmGereOficina.resources

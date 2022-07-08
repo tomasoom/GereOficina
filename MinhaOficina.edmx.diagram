@@ -8,7 +8,7 @@
         <EntityTypeShape EntityType="MinhaOficina.Cliente" Width="1.5" PointX="5.125" PointY="1.5" />
         <EntityTypeShape EntityType="MinhaOficina.Carro" Width="1.5" PointX="7.625" PointY="1.5" />
         <EntityTypeShape EntityType="MinhaOficina.Servico" Width="1.5" PointX="7.625" PointY="4" />
-        <EntityTypeShape EntityType="MinhaOficina.Parcela" Width="1.5" PointX="5.25" PointY="4" />
+        <EntityTypeShape EntityType="MinhaOficina.Parcela" Width="1.5" PointX="4.75" PointY="4" />
         <AssociationConnector Association="MinhaOficina.ClienteCarro" />
         <AssociationConnector Association="MinhaOficina.CarroServico" />
         <AssociationConnector Association="MinhaOficina.ServicoParcela" />
